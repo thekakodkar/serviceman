@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../serviceman/.idea/serviceman.iml" filepath="$PROJECT_DIR$/../serviceman/.idea/serviceman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MapperScript/.idea/MapperScript.iml" filepath="$PROJECT_DIR$/../MapperScript/.idea/MapperScript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/serviceman.iml" filepath="$PROJECT_DIR$/.idea/serviceman.iml" />
     </modules>
   </component>
 </project>
